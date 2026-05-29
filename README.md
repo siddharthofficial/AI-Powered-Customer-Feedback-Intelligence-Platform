@@ -30,6 +30,10 @@ This project automates the entire feedback analysis workflow and enables data-dr
 
 Amazon Mobile Phone Reviews Dataset
 
+The original Amazon Reviews dataset is too large to be stored in this repository.
+
+A representative sample dataset is included for demonstration purposes.
+
 ### Attributes
 
 * Product Name
